@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d7df6b49.chunk.css",
+    "main.js": "/static/js/main.4810850b.chunk.js",
+    "main.js.map": "/static/js/main.4810850b.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.2a76373e.js",
+    "runtime-main.js.map": "/static/js/runtime-main.2a76373e.js.map",
+    "static/css/2.a7573f04.chunk.css": "/static/css/2.a7573f04.chunk.css",
+    "static/js/2.2d0b59df.chunk.js": "/static/js/2.2d0b59df.chunk.js",
+    "static/js/2.2d0b59df.chunk.js.map": "/static/js/2.2d0b59df.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.a7573f04.chunk.css.map": "/static/css/2.a7573f04.chunk.css.map",
+    "static/css/main.d7df6b49.chunk.css.map": "/static/css/main.d7df6b49.chunk.css.map",
+    "static/js/2.2d0b59df.chunk.js.LICENSE.txt": "/static/js/2.2d0b59df.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/static/media/Minecraftia-Regular.69fd3db1.ttf",
+    "static/media/eu.6ff24bf0.png": "/static/media/eu.6ff24bf0.png",
+    "static/media/Intro.css": "/static/media/space_background.45b1103d.png",
+    "static/media/Projects.css": "/static/media/robo_vsss.94d939c8.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2a76373e.js",
+    "static/css/2.a7573f04.chunk.css",
+    "static/js/2.2d0b59df.chunk.js",
+    "static/css/main.d7df6b49.chunk.css",
+    "static/js/main.4810850b.chunk.js"
+  ]
+}
