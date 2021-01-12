@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.efb19ddc.chunk.css",
-    "main.js": "/static/js/main.3ef88c22.chunk.js",
-    "main.js.map": "/static/js/main.3ef88c22.chunk.js.map",
+    "main.css": "/static/css/main.7c4a2741.chunk.css",
+    "main.js": "/static/js/main.91ff9c6b.chunk.js",
+    "main.js.map": "/static/js/main.91ff9c6b.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.407ff292.js",
     "runtime-main.js.map": "/static/js/runtime-main.407ff292.js.map",
     "static/css/2.20aa2d7b.chunk.css": "/static/css/2.20aa2d7b.chunk.css",
@@ -10,7 +10,7 @@
     "static/js/2.28f86a04.chunk.js.map": "/static/js/2.28f86a04.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.20aa2d7b.chunk.css.map": "/static/css/2.20aa2d7b.chunk.css.map",
-    "static/css/main.efb19ddc.chunk.css.map": "/static/css/main.efb19ddc.chunk.css.map",
+    "static/css/main.7c4a2741.chunk.css.map": "/static/css/main.7c4a2741.chunk.css.map",
     "static/js/2.28f86a04.chunk.js.LICENSE.txt": "/static/js/2.28f86a04.chunk.js.LICENSE.txt",
     "static/media/index.css": "/static/media/Minecraftia-Regular.69fd3db1.ttf",
     "static/media/eu.6ff24bf0.png": "/static/media/eu.6ff24bf0.png",
@@ -20,7 +20,7 @@
     "static/js/runtime-main.407ff292.js",
     "static/css/2.20aa2d7b.chunk.css",
     "static/js/2.28f86a04.chunk.js",
-    "static/css/main.efb19ddc.chunk.css",
-    "static/js/main.3ef88c22.chunk.js"
+    "static/css/main.7c4a2741.chunk.css",
+    "static/js/main.91ff9c6b.chunk.js"
   ]
 }
